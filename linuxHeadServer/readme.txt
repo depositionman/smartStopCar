@@ -1,0 +1,6 @@
+各文件夹的作用：
+baseServer存放着写服务器基本的一些类的封装（方便移植）
+tcpServer存放着tcp服务器的类的封装（方便移植）
+threadPool存放着线程池和基本的任务类的封装（方便移植）
+client是项目所需要处理的客户端的任务
+agreement是该项目的通信协议和crc算法
